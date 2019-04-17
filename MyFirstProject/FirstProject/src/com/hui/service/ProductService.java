@@ -16,5 +16,9 @@ public interface ProductService {
     //分页查询
     CalcuModel findProduct(String pid, int curNum) throws SQLException;
 
+    //根据分页查询集合
+    CalcuModel showProduct(int curNum) throws SQLException;
 
+    //保存商品信息到数据库
+    void saveProduct(Product product) throws SQLException;
 }

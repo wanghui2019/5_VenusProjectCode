@@ -19,4 +19,11 @@ public interface ProductDao {
     //查询某个商品总数
     int findTotal(String cid) throws SQLException;
 
+    //查询所有商品信息
+    int showTotal() throws SQLException;
+
+    //根据分页查询集合
+    List<Product> showProduct(int startNum,int showNum) throws SQLException;
+
+    void saveProduct(Product product) throws SQLException;
 }

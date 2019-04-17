@@ -49,9 +49,39 @@ public class ProductDaoImpl implements ProductDao {
         Long totalNum=(Long) queryRunner.query(sql,new ScalarHandler(),cid);
         return totalNum.intValue();
     }
+    //查询所有商品
+    @Override
+    public int showTotal() throws SQLException {
+        String sql="select count(*) from product";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        Long totalNum= (Long) queryRunner.query(sql,new ScalarHandler());
+        return totalNum.intValue();
+    }
 
+    @Override
+    public List<Product> showProduct(int startNum,int showNum) throws SQLException {
+        String sql="select * from product order by pdate desc limit ?,?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        return queryRunner.query(sql,new BeanListHandler<Product>(Product.class),startNum,showNum);
+    }
 
-
+    @Override
+    public void saveProduct(Product product) throws SQLException {
+        String sql="insert into product() values(?,?,?,?,?,?,?,?,?,?)";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        queryRunner.update(sql,
+                product.getPid(),
+                product.getPname(),
+                product.getMarket_price(),
+                product.getShop_price(),
+                product.getPimage(),
+                product.getPdate(),
+                product.getIs_host(),
+                product.getPdesc(),
+                product.getPflag(),
+                product.getCid()
+                );
+    }
 
 
 }

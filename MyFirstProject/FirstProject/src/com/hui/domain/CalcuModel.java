@@ -41,7 +41,7 @@ public class CalcuModel {
            if (startPage<1){
                startPage=1;
                endPage=startPage+8;
-           }else if (endPage>totalPageNum){
+           }else if (endPage>=totalPageNum){
                endPage=totalPageNum;
                startPage=endPage-8;
            }

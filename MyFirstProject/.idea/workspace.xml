@@ -6,7 +6,55 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfb0c4c-45eb-438f-a60a-8e33ddeaf16f" name="Default Changelist" comment="" />
+    <list default="true" id="a7267ae9-a89e-434d-871a-54ededd28ced" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FirstProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FirstProject_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1bf175e-b812-4172-ae9a-8fa9bb47e682.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_2_pre5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/FirstProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/left.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/jsp/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/jsp/info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/web/jsp/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/jsp/page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/CategoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/ProductDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/CategoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/CategoryDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/ProductDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/ProductDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/domain/CalcuModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/domain/CalcuModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/CategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/ProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/left.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/add.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/info.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/page.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,101 +77,96 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/OrderService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="68" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/OrderServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1871">
-              <caret line="88" column="107" selection-start-line="88" selection-start-column="107" selection-end-line="88" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/RegisterServlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/register.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="47" column="114" lean-forward="true" selection-start-line="47" selection-start-column="114" selection-end-line="47" selection-end-column="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/order_info.jsp">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/AdminProductServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+            <state relative-caret-position="1002">
+              <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/header.jsp">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/TestClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+            <state relative-caret-position="330">
+              <caret line="15" column="170" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="170" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/web/index.jsp">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/UploadUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="452">
+              <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1074#1101#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/PayMoneyServlet.java">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/UUIDUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/PaymentUtil.java">
+        <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="142" column="46" lean-forward="true" selection-start-line="142" selection-start-column="46" selection-end-line="142" selection-end-column="46" />
+            <state relative-caret-position="124">
+              <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="381">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="133" selection-start-line="9" selection-start-column="133" selection-end-line="9" selection-end-column="133" />
             </state>
           </provider>
         </entry>
@@ -133,66 +176,42 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/UUID.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/UUIDUtil.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/MyBeanUtil.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/MyBeanUtils.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/User.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/filter/EncodingFilter.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/MailUtils.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/UserService.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/UserDaoImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/login.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/BaseServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/Category.java" />
+        <option value="$PROJECT_DIR$/FirstProject/web/jsp/info.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/filter/UserFilter.java" />
+        <option value="$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java" />
         <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" />
         <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/IndexServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/JedisUtils.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/CategoryServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/Product.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/index.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/ProductServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CartItem.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/CartServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/Cart.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/OrderItem.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/product_info.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/cart.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/web/admin/left.jsp" />
         <option value="$PROJECT_DIR$/FirstProject/web/jsp/page.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/product_list.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/Order.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/OrderServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/order_list.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" />
+        <option value="$PROJECT_DIR$/FirstProject/web/WEB-INF/test.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/web/test.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/TestServlet.java" />
         <option value="$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/order_info.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/OrderService.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/OrderDao.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/OrderDaoImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/OrderServiceImpl.java" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/PayMoneyServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/header.jsp" />
-        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/RegisterServlet.java" />
-        <option value="$PROJECT_DIR$/FirstProject/web/jsp/register.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/AdminCategoryServlet.java" />
+        <option value="$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/domain/TestClass.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/utils/UploadUtils.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" />
+        <option value="$PROJECT_DIR$/FirstProject/src/com/hui/servlet/AdminProductServlet.java" />
       </list>
     </option>
   </component>
@@ -217,17 +236,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="93" />
-    <option name="y" value="68" />
+    <option name="x" value="69" />
+    <option name="y" value="30" />
     <option name="width" value="1802" />
-    <option name="height" value="937" />
+    <option name="height" value="969" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -235,6 +251,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,14 +282,15 @@
               <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hui" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="hui" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstProject" type="b2602c69:ProjectViewProjectNode" />
@@ -312,7 +330,7 @@
               <item name="MyFirstProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="FirstProject" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="products" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyFirstProject" type="b2602c69:ProjectViewProjectNode" />
@@ -328,7 +346,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,12 +356,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555390357235" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555499350776" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.CVS" />
   </component>
@@ -352,8 +368,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/FirstProject/src/com/hui/utils" />
       <recent name="$PROJECT_DIR$/FirstProject/web" />
-      <recent name="$PROJECT_DIR$/FirstProject/src" />
-      <recent name="$PROJECT_DIR$/FirstProject/web/WEB-INF/lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -369,12 +383,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.tomcat">
-    <configuration name="DemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hui.test.DemoTest" />
+    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hui.domain.TestClass" />
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.hui.test.*" />
+          <option name="PATTERN" value="com.hui.domain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -382,20 +396,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MailUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hui.utils.MailUtils" />
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hui.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyBeanUtil.method1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UploadUtils" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -404,14 +405,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hui.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.hui.utils.MyBeanUtil" />
-      <option name="METHOD_NAME" value="method1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.hui.utils.UploadUtils" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UUIDUtil.getUUID" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UploadUtils.getDir" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="FirstProject" />
       <extension name="coverage">
         <pattern>
@@ -420,24 +420,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.hui.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.hui.utils.UUIDUtil" />
-      <option name="METHOD_NAME" value="getUUID" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UUIDUtil.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="FirstProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.hui.utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.hui.utils" />
-      <option name="MAIN_CLASS_NAME" value="com.hui.utils.UUIDUtil" />
-      <option name="METHOD_NAME" value="method" />
+      <option name="MAIN_CLASS_NAME" value="com.hui.utils.UploadUtils" />
+      <option name="METHOD_NAME" value="getDir" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -454,7 +438,7 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MyFirstProject" />
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MyFirstProject_2" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -462,7 +446,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="54400" />
+        <option name="DEBUG_PORT" value="64686" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -516,21 +500,11 @@
         </option>
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.DemoTest" />
-      <item itemvalue="Application.MailUtils" />
-      <item itemvalue="JUnit.UUIDUtil.getUUID" />
-      <item itemvalue="JUnit.UUIDUtil.method" />
-      <item itemvalue="JUnit.MyBeanUtil.method1" />
-      <item itemvalue="Tomcat Server.tomcat" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MailUtils" />
-        <item itemvalue="JUnit.MyBeanUtil.method1" />
-        <item itemvalue="JUnit.UUIDUtil.method" />
-        <item itemvalue="JUnit.UUIDUtil.getUUID" />
-        <item itemvalue="Application.DemoTest" />
+        <item itemvalue="Application.TestClass" />
+        <item itemvalue="JUnit.UploadUtils.getDir" />
+        <item itemvalue="JUnit.UploadUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -539,660 +513,280 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6cfb0c4c-45eb-438f-a60a-8e33ddeaf16f" name="Default Changelist" comment="" />
-      <created>1554699639872</created>
+      <changelist id="a7267ae9-a89e-434d-871a-54ededd28ced" name="Default Changelist" comment="" />
+      <created>1555394065476</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554699639872</updated>
-      <workItem from="1554699641324" duration="7983000" />
-      <workItem from="1554710038491" duration="15169000" />
-      <workItem from="1554770543686" duration="72333000" />
-      <workItem from="1555034336417" duration="41943000" />
-      <workItem from="1555292659604" duration="37989000" />
+      <updated>1555394065476</updated>
+      <workItem from="1555394073938" duration="280000" />
+      <workItem from="1555409673112" duration="5108000" />
+      <workItem from="1555465780099" duration="1306000" />
+      <workItem from="1555467586905" duration="18486000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UUIDUtil_getUUID - 2019.04.08 at 17h 04m 29s.xml">
-      <configuration name="UUIDUtil.getUUID" configurationId="JUnit" />
+    <history-entry file="UploadUtils - 2019.04.17 at 17h 38m 41s.xml">
+      <configuration name="UploadUtils" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UUIDUtil_getUUID - 2019.04.08 at 17h 06m 47s.xml">
-      <configuration name="UUIDUtil.getUUID" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UUIDUtil_getUUID - 2019.04.08 at 17h 08m 45s.xml">
-      <configuration name="UUIDUtil.getUUID" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UUIDUtil_getUUID - 2019.04.08 at 17h 08m 59s.xml">
-      <configuration name="UUIDUtil.getUUID" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UUIDUtil_method - 2019.04.08 at 17h 11m 59s.xml">
-      <configuration name="UUIDUtil.method" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UUIDUtil_method - 2019.04.08 at 17h 12m 18s.xml">
-      <configuration name="UUIDUtil.method" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="UUIDUtil_method - 2019.04.08 at 17h 13m 54s.xml">
-      <configuration name="UUIDUtil.method" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="MyBeanUtil_method1 - 2019.04.08 at 18h 33m 41s.xml">
-      <configuration name="MyBeanUtil.method1" configurationId="JUnit" />
+    <history-entry file="UploadUtils_getDir - 2019.04.17 at 17h 39m 36s.xml">
+      <configuration name="UploadUtils.getDir" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175417000" />
+    <option name="totallyTimeSpent" value="25180000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="93" y="68" width="1802" height="937" extended-state="0" />
+    <frame x="58" y="30" width="1802" height="969" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8295858" visible="true" weight="0.18352273" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8238748" visible="true" weight="0.25852272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.1704142" side_tool="true" visible="true" weight="0.18352273" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" sideWeight="0.17612524" side_tool="true" visible="true" weight="0.25852272" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49868938" weight="0.4035503" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32307693" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Console" order="7" visible="true" weight="0.3289941" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5013106" side_tool="true" weight="0.75502956" />
-      <window_info anchor="bottom" id="Application Servers" order="11" sideWeight="0.4993447" weight="0.1147929" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289941" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32919767" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32754344" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8319739" visible="true" weight="0.20949867" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" sideWeight="0.1680261" side_tool="true" visible="true" weight="0.20949867" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993804" visible="true" weight="0.27455622" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.20828402" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4173318" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990878" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.3289941" />
-      <window_info anchor="bottom" id="Database Console" order="8" visible="true" weight="0.3289941" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006196" side_tool="true" weight="0.22485207" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289941" />
-      <window_info anchor="bottom" id="Java Enterprise" order="13" />
-      <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3295325" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.3296845" />
+      <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32904056" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32954547" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout-to-restore>
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/UserService.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/info.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="254">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/Category.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/filter/UserFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-          <folding>
-            <element signature="e#127#128#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/filter/EncodingFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="49" column="6" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6f3b4876-aae2-4466-a44f-be76dc57e9f0/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/RegisterServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="73" column="47" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1269" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/IndexServlet.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="154">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/JedisUtils.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/Product.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#667#668#0" expanded="true" />
-            <element signature="e#723#724#0" expanded="true" />
-            <element signature="e#771#772#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#893#894#0" expanded="true" />
-            <element signature="e#937#938#0" expanded="true" />
-            <element signature="e#970#971#0" expanded="true" />
-            <element signature="e#999#1000#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1079#1080#0" expanded="true" />
-            <element signature="e#1109#1110#0" expanded="true" />
-            <element signature="e#1137#1138#0" expanded="true" />
-            <element signature="e#1177#1178#0" expanded="true" />
-            <element signature="e#1211#1212#0" expanded="true" />
-            <element signature="e#1242#1243#0" expanded="true" />
-            <element signature="e#1272#1273#0" expanded="true" />
-            <element signature="e#1315#1316#0" expanded="true" />
-            <element signature="e#1353#1354#0" expanded="true" />
-            <element signature="e#1385#1386#0" expanded="true" />
-            <element signature="e#1413#1414#0" expanded="true" />
-            <element signature="e#1455#1456#0" expanded="true" />
-            <element signature="e#1489#1490#0" expanded="true" />
-            <element signature="e#1518#1519#0" expanded="true" />
-            <element signature="e#1546#1547#0" expanded="true" />
-            <element signature="e#1585#1586#0" expanded="true" />
-            <element signature="e#1619#1620#0" expanded="true" />
-            <element signature="e#1649#1650#0" expanded="true" />
-            <element signature="e#1675#1676#0" expanded="true" />
-            <element signature="e#1713#1714#0" expanded="true" />
-            <element signature="e#1743#1744#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" column="97" selection-start-line="10" selection-start-column="97" selection-end-line="10" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b1bf175e-b812-4172-ae9a-8fa9bb47e682/console.sql">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/home.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/page.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="59" />
+        <state relative-caret-position="638">
+          <caret line="29" column="6" lean-forward="true" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/UserDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="53" column="89" selection-start-line="53" selection-start-column="89" selection-end-line="53" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/MyBeanUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" column="55" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="16" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="220" selection-start-line="220" selection-end-line="220" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/BaseServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1298">
-          <caret line="63" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#1478#1479#0" expanded="true" />
-            <element signature="e#1763#1764#0" expanded="true" />
-            <element signature="e#1794#1795#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/OrderItem.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/test.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-            <element signature="e#287#288#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#719#720#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#788#789#0" expanded="true" />
-            <element signature="e#816#817#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#891#892#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="418">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/TestServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/page.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/info.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-195" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/ProductServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/CategoryServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/MailUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="41" column="86" selection-start-line="41" selection-start-column="86" selection-end-line="41" selection-end-column="86" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#635#877#0" expanded="true" />
-            <element signature="e#876#877#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/product_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/product_info.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="36" column="88" lean-forward="true" selection-start-line="36" selection-start-column="88" selection-end-line="36" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/CartServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1387">
-          <caret line="77" column="21" lean-forward="true" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="34" column="82" selection-start-line="34" selection-start-column="82" selection-end-line="34" selection-end-column="82" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/cart.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/CartItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#640#641#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/FirstProject/web/WEB-INF/lib/commons-dbutils-1.4-sources.jar!/org/apache/commons/dbutils/handlers/BeanHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#1823#1824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/order_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+        <state relative-caret-position="352">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="76" column="37" selection-start-line="76" selection-start-column="37" selection-end-line="76" selection-end-column="37" />
+        <state relative-caret-position="462">
+          <caret line="109" selection-start-line="109" selection-end-line="109" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/Order.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/left.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-          <folding>
-            <element signature="e#584#585#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#678#679#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#960#961#0" expanded="true" />
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1039#1040#0" expanded="true" />
-            <element signature="e#1072#1073#0" expanded="true" />
-            <element signature="e#1124#1125#0" expanded="true" />
-            <element signature="e#1168#1169#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="364">
+          <caret line="37" column="111" selection-start-line="37" selection-start-column="100" selection-end-line="37" selection-end-column="111" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/OrderServlet.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/AdminCategoryServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="87" column="41" selection-start-line="87" selection-start-column="41" selection-end-line="87" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="294">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../video/VenusProject/day04__6天项目订单模块/day04__6天项目订单模块/day25_案例/resource/note/全部代码/store_v5/src/cn/itcast/store/web/servlet/OrderServlet.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="215" column="8" lean-forward="true" selection-start-line="154" selection-start-column="4" selection-end-line="215" selection-end-column="8" />
+        <state relative-caret-position="440">
+          <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/OrderDao.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="198">
+          <caret line="9" column="133" selection-start-line="9" selection-start-column="133" selection-end-line="9" selection-end-column="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/OrderDaoImpl.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/UUIDUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="143" column="22" selection-start-line="143" selection-start-column="22" selection-end-line="143" selection-end-column="22" />
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/domain/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="170" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/UploadUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="56" column="39" lean-forward="true" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1074#1101#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/OrderServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="77" column="24" selection-start-line="77" selection-start-column="24" selection-end-line="77" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="396">
+          <caret line="22" column="58" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/utils/PaymentUtil.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="142" column="46" lean-forward="true" selection-start-line="142" selection-start-column="46" selection-end-line="142" selection-end-column="46" />
+        <state relative-caret-position="124">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/PayMoneyServlet.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="41" column="24" lean-forward="true" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+        <state relative-caret-position="506">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/OrderService.java">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="381">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1871">
-          <caret line="88" column="107" selection-start-line="88" selection-start-column="107" selection-end-line="88" selection-end-column="107" />
+        <state relative-caret-position="338">
+          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/AdminProductServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/src/com/hui/servlet/RegisterServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="95" column="51" lean-forward="true" selection-start-line="95" selection-start-column="51" selection-end-line="95" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="47" column="114" lean-forward="true" selection-start-line="47" selection-start-column="114" selection-end-line="47" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FirstProject/web/jsp/order_info.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        <state relative-caret-position="1002">
+          <caret line="116" column="22" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1250,7 +844,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>FirstProject</last-edited>
+          <last-edited>Web|FirstProject</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1274,7 +868,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>c3p0-0.9.2-pre5</last-edited>
+          <last-edited>lib</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -7,4 +7,6 @@ import java.util.List;
 
 public interface CategoryDao {
     List<Category> findAllCats() throws SQLException;
+
+    void addCategory(Category category) throws SQLException;
 }

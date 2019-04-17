@@ -30,7 +30,7 @@
 <body>
 
         <!--分页 -->
-        <div style="width:600px;margin:0 auto;margin-top:50px;">
+        <div style="width:800px;margin:0 auto;margin-top:50px;">
             <ul class="pagination" style="text-align:center; margin-top:10px;">
 
                 <li><a href="${pageContext.request.contextPath}/${cm.url}&num=1">首页</a></li>

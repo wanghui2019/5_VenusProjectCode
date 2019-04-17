@@ -23,6 +23,19 @@
         <url-pattern>/*</url-pattern>
     </filter-mapping>
 
+
+    <filter>
+        <filter-name>UserFilter</filter-name>
+        <filter-class>com.hui.filter.UserFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>UserFilter</filter-name>
+        <url-pattern>/jsp/cart.jsp</url-pattern>
+        <url-pattern>/jsp/index.jsp</url-pattern>
+        <url-pattern>/jsp/product_info.jsp</url-pattern>
+        <url-pattern>/jsp/product_list.jsp</url-pattern>
+    </filter-mapping>
+
     <!--<servlet>-->
         <!--<servlet-name>IndexServlet</servlet-name>-->
         <!--<servlet-class>com.hui.servlet.IndexServlet</servlet-class>-->
@@ -76,4 +89,23 @@
         <servlet-name>PayMoneyServlet</servlet-name>
         <url-pattern>/PayMoneyServlet</url-pattern>
     </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AdminCategoryServlet</servlet-name>
+        <servlet-class>com.hui.servlet.AdminCategoryServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminCategoryServlet</servlet-name>
+        <url-pattern>/AdminCategoryServlet</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AdminProductServlet</servlet-name>
+        <servlet-class>com.hui.servlet.AdminProductServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminProductServlet</servlet-name>
+        <url-pattern>/AdminProductServlet</url-pattern>
+    </servlet-mapping>
+
 </web-app>

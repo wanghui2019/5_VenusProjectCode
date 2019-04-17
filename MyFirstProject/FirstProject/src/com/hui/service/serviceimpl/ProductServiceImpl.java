@@ -1,5 +1,6 @@
 package com.hui.service.serviceimpl;
 
+import com.hui.dao.ProductDao;
 import com.hui.dao.impl.ProductDaoImpl;
 import com.hui.domain.CalcuModel;
 import com.hui.domain.Product;
@@ -39,6 +40,28 @@ public class ProductServiceImpl implements ProductService {
 
         return calcuModel;
     }
+
+
+
+    //查询所有商品信息
+    @Override
+    public CalcuModel showProduct(int curNum) throws SQLException {
+        int totalNum=productDao.showTotal();
+        CalcuModel calcuModel=new CalcuModel(curNum,totalNum,5);
+        List<Product> products = productDao.showProduct(calcuModel.getStartNum(), calcuModel.getShowNum());
+
+        calcuModel.setList(products);
+        calcuModel.setUrl("AdminProductServlet?method=showProduct");
+        return calcuModel;
+    }
+
+    //添加商品信息到数据库
+    @Override
+    public void saveProduct(Product product) throws SQLException {
+        ProductDao productDao=new ProductDaoImpl();
+        productDao.saveProduct(product);
+    }
+
 
 
 
