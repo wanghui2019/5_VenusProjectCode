@@ -6,54 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7267ae9-a89e-434d-871a-54ededd28ced" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/FirstProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/FirstProject_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b1bf175e-b812-4172-ae9a-8fa9bb47e682.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/c3p0_0_9_2_pre5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_7_bin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/FirstProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/FirstProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/CategoryDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/ProductDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/CategoryDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/dao/impl/ProductDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/domain/CalcuModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/CategoryService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/CategoryServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/src/com/hui/service/serviceimpl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/category/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/category/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/product/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/admin/product/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/jsp/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/jsp/info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/web/jsp/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/web/jsp/page.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/CategoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/CategoryDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/ProductDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/ProductDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/CategoryDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/CategoryDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/ProductDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/dao/impl/ProductDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/domain/CalcuModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/domain/CalcuModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/CategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/CategoryService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/CategoryServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/classes/com/hui/service/serviceimpl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/category/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/left.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/left.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/add.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/admin/product/list.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/page.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/FirstProject_war_exploded/jsp/page.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="a7267ae9-a89e-434d-871a-54ededd28ced" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -356,7 +309,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555499350776" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555499837097" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -521,7 +474,7 @@
       <workItem from="1555394073938" duration="280000" />
       <workItem from="1555409673112" duration="5108000" />
       <workItem from="1555465780099" duration="1306000" />
-      <workItem from="1555467586905" duration="18486000" />
+      <workItem from="1555467586905" duration="18897000" />
     </task>
     <servers />
   </component>
@@ -534,23 +487,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25180000" />
+    <option name="totallyTimeSpent" value="25591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="30" width="1802" height="969" extended-state="0" />
+    <frame x="69" y="30" width="1802" height="969" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8238748" visible="true" weight="0.25852272" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8244014" visible="true" weight="0.25852272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info id="Web" order="7" sideWeight="0.17612524" side_tool="true" visible="true" weight="0.25852272" />
+      <window_info id="Web" order="7" sideWeight="0.17559864" side_tool="true" visible="true" weight="0.25852272" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4173318" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4173318" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3990878" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
