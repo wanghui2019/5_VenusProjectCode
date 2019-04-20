@@ -1,4 +1,5 @@
 <%@ page language="java" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <HTML>
 	<HEAD>
 		<meta http-equiv="Content-Language" content="zh-cn">
@@ -6,20 +7,62 @@
 		<link href="${pageContext.request.contextPath}/css/Style1.css" rel="stylesheet" type="text/css" />
 		<script language="javascript" src="${pageContext.request.contextPath}/js/public.js"></script>
 		<script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-1.11.3.min.js"></script>
-		<script type="text/javascript">
-			function showDetail(oid){
-				var $val = $("#but"+oid).val();
-				if($val == "订单详情"){
-					// ajax 显示图片,名称,单价,数量
-					$("#div"+oid).append("<img width='60' height='65' src='${pageContext.request.contextPath}/products/1/c_0028.jpg'>&nbsp;xxxx&nbsp;998<br/>");
-					
-					$("#but"+oid).val("关闭");
-				}else{
-					$("#div"+oid).html("");
-					$("#but"+oid).val("订单详情");
-				}
-			}
-		</script>
+        <link rel="stylesheet" href="${pageContext.request.contextPath}/css/productdetail.css">
+        <style>
+            .orderDiv{
+                width: 1000px;
+                height: 1000px;
+            }
+        </style>
+        <script>
+            $(function () {
+                $(".bottonorder").click(function(){
+                    var bottonvalue=this.value;
+                    var oid=this.getAttribute("data-value");
+
+                    if (bottonvalue=="订单详情"){
+                        this.value="关闭";
+                        document.getElementById("upid").style.display="block";      //关闭
+
+                    } else{
+                        this.value="订单详情";
+                        document.getElementById("upid").style.display="none";
+                    }
+
+
+                    $("#upid2").html("");
+
+                    $.post("${pageContext.request.contextPath}/AdminOrderServlet",
+                        {
+                            "method":"findProductDetail",
+                            "oid":oid
+                        },
+                        function(data,status){
+                            //对响应来的数据进行遍历
+                            $.each(data,function(index,obj){
+                                var ul0=$("<ul class='headerul2'></ul>");
+
+                                var li1="<li class='bodyli headerli1 bodyli1'><img src='${pageContext.request.contextPath}/"+obj.product.pimage+"' alt=''></li>";
+                                var li2="<li class='bodyli headerli2'>"+"<span>"+obj.product.pname+"</span>"+"</li>";
+                                var li3="<li class='bodyli headerli3'>"+"¥"+obj.product.market_price+"</li>";
+                                var li4="<li class='bodyli headerli4'>"+obj.quantity+"</li>";
+                                var li5="<li class='bodyli headerli5'>"+"¥"+obj.total+"</li>";
+                                $("#upid2").append(ul0);
+
+                                ul0.append(li1);
+                                ul0.append(li2);
+                                ul0.append(li3);
+                                ul0.append(li4);
+                                ul0.append(li5);
+
+                            });
+                        },"json");
+                });
+            });
+
+
+
+        </script>
 	</HEAD>
 	<body>
 		<br>
@@ -59,47 +102,79 @@
 										订单详情
 									</td>
 								</tr>
+                                <c:forEach items="${cm.list}" var="order" varStatus="status">
 										<tr onmouseover="this.style.backgroundColor = 'white'"
 											onmouseout="this.style.backgroundColor = '#F5FAFE';">
 											<td style="CURSOR: hand; HEIGHT: 22px" align="center"
 												width="18%">
-												1
+												${status.count}
 											</td>
 											<td style="CURSOR: hand; HEIGHT: 22px" align="center"
 												width="17%">
-												BH1234356
+												${order.oid}
 											</td>
 											<td style="CURSOR: hand; HEIGHT: 22px" align="center"
 												width="17%">
-												998
+												${order.totalPrice}
 											</td>
 											<td style="CURSOR: hand; HEIGHT: 22px" align="center"
 												width="17%">
-												张XX
+                                                ${order.address}
 											</td>
 											<td style="CURSOR: hand; HEIGHT: 22px" align="center"
 												width="17%">
-													1=未付款、2=发货、3=已发货、4=订单完成
+                                                <c:if test="${order.state==1}">未付款</c:if>
+                                                <c:if test="${order.state==2}">
+                                                    <a href="AdminOrderServlet?method=changeOrderState&oid=${order.oid}&num=${cm.curNum}" style="color: blue">付款</a>
+                                                </c:if>
+                                                <c:if test="${order.state==3}">已发货</c:if>
+                                                <c:if test="${order.state==4}">订单完成</c:if>
 											</td>
 											<td align="center" style="HEIGHT: 22px">
-												<input type="button" value="订单详情" id="but${o.oid}" onclick="showDetail('${o.oid}')"/>
-												<div id="div${o.oid}">
-													
-												</div>
+												<input type="button" value="订单详情"  class="bottonorder" data-value="${order.oid}"/>
 											</td>
-							
 										</tr>
+                                </c:forEach>
 							</table>
+
+
+
 						</td>
 					</tr>
+
 					<tr align="center">
 						<td colspan="7">
 							
 						</td>
 					</tr>
 				</TBODY>
+
+
 			</table>
 		</form>
+        <%@ include file="../../jsp/page.jsp"%>
+
+        <%--要显示商品具体情况的表格--%>
+        <div class="updiv"  id="upid">
+
+            <div class="updiv1"  >
+                <ul class="headerul1">
+                    <li class="headerli1">图片</li>
+                    <li class="headerli2">商品</li>
+                    <li class="headerli3">价格</li>
+                    <li class="headerli4">数量</li>
+                    <li class="headerli5">小计</li>
+                </ul>
+            </div>
+
+            <div class="updiv2"  id="upid2">
+
+            </div>
+        </div>
+
+
+
 	</body>
+
 </HTML>
 

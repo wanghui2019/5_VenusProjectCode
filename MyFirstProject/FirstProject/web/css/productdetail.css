@@ -1,0 +1,98 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.updiv{
+    box-shadow: 0px 0px 1px rgba(34, 15, 15, 0.39);
+    width: 816px;
+    height: 350px;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    background-color: white;
+    overflow: scroll;
+    background-color: #EEEEEE;
+    display: none;
+    left: 200px;
+}
+.updiv1{
+    height: 40px;
+    width: 800px;
+}
+.headerul1{
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.headerul1 li{
+    float: left;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    /* border: 0px solid red; */
+    height: 40px;
+    background-color: rgba(255, 255, 0, 0.26);
+    padding: 5px 0 5px 10px;
+    line-height: 28px;
+    box-shadow: 0px 0px 1px rgba(88, 23, 23, 0.644);
+}
+
+.headerli1{
+    width: 160px;
+}
+
+.headerli2{
+    width: 240px;
+}
+
+.headerli3{
+    width: 120px;
+}
+
+.headerli4{
+    width: 160px;
+}
+
+.headerli5{
+    width: 120px;
+}
+
+
+
+.headerul2{
+    padding-left: 0;
+    height: 90px;
+}
+
+.bodyli{
+    float: left;
+    text-align: left;
+    list-style-type: none;
+    display: inline-block;
+    box-shadow: 0px 0px 1px rgba(88, 23, 23, 0.644);
+    /* border: 0px solid red; */
+    height: 100px;
+    background-color: white;
+    padding: 5px 0 5px 10px;
+    font-size: 13px;
+    overflow: hidden;
+}
+
+.bodyli span{
+    display: block;
+    margin-top: 10px;
+}
+
+.bodyli1 img{
+    width: 80px;
+    height: 80px;
+    margin-top: 5px;
+}

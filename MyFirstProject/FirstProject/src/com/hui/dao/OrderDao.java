@@ -22,4 +22,23 @@ public interface OrderDao {
     void updateMessage(String address,String name,String telephone,String oid) throws SQLException;
     //跟新订单状态
     void updateOrderState(String oid,int state) throws SQLException;
+
+
+    //管理员查询所有订单信息
+    List<Order> showAllOrder(int startNum,int showNum) throws SQLException;
+
+    //管理员根据state查询订单信息
+    List<Order> showAllOrder(int state,int startNum,int showNum) throws SQLException;
+
+    //查询订单总数
+    int showOrderTotal() throws SQLException;
+
+    //查询相应状态的订单总数
+    int showOrderTotal(int state) throws SQLException;
+
+    //根据oid查询订单
+    Order getOrder(String oid) throws SQLException;
+
+    void updateState(Order order) throws SQLException;
+
 }

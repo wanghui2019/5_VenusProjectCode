@@ -108,4 +108,13 @@
         <url-pattern>/AdminProductServlet</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>AdminOrderServlet</servlet-name>
+        <servlet-class>com.hui.servlet.AdminOrderServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AdminOrderServlet</servlet-name>
+        <url-pattern>/AdminOrderServlet</url-pattern>
+    </servlet-mapping>
+
 </web-app>

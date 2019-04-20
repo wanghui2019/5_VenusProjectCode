@@ -37,7 +37,7 @@ public class OrderServiceImpl implements OrderService {
             conn.rollback();
         }
     }
-    //添加支付状态
+    //根据oid查询订单状态
     @Override
     public Order payState(String oid) throws SQLException, InvocationTargetException, IllegalAccessException {
         Order order = orderDao.selectOrder(oid);
@@ -76,6 +76,38 @@ public class OrderServiceImpl implements OrderService {
     public void updateOrderState(String oid, int state) throws SQLException {
         OrderDao orderDao=new OrderDaoImpl();
         orderDao.updateOrderState(oid,state);
+    }
+
+    @Override
+    public CalcuModel showAllOrder(int curNum) throws SQLException {
+        int totalNum = orderDao.showOrderTotal();
+        CalcuModel calcuModel=new CalcuModel(curNum, totalNum,5);
+        List<Order> orders = orderDao.showAllOrder(calcuModel.getStartNum(), calcuModel.getShowNum());
+        calcuModel.setList(orders);
+        calcuModel.setUrl("AdminOrderServlet?method=showOrder&state=0");
+        return calcuModel;
+    }
+
+    @Override
+    public CalcuModel showAllOrder(int state, int curNum) throws SQLException {
+        int totalNum = orderDao.showOrderTotal(state);
+        CalcuModel calcuModel=new CalcuModel(curNum, totalNum,5);
+        List<Order> orders = orderDao.showAllOrder(state,calcuModel.getStartNum(), calcuModel.getShowNum());
+        calcuModel.setList(orders);
+        calcuModel.setUrl("AdminOrderServlet?method=showOrder&state="+state);
+        return calcuModel;
+    }
+
+    @Override
+    public Order getOrder(String oid) throws SQLException {
+        OrderDao orderDao=new OrderDaoImpl();
+        return orderDao.getOrder(oid);
+    }
+
+    @Override
+    public void updateState(Order order) throws SQLException {
+        OrderDao orderDao=new OrderDaoImpl();
+        orderDao.updateState(order);
     }
 
 

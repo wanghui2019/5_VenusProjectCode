@@ -7,10 +7,8 @@ import org.apache.commons.beanutils.BeanUtils;
 import org.apache.commons.beanutils.ConvertUtils;
 import org.apache.commons.beanutils.converters.DateConverter;
 import org.apache.commons.dbutils.QueryRunner;
-import org.apache.commons.dbutils.handlers.BeanHandler;
-import org.apache.commons.dbutils.handlers.BeanListHandler;
-import org.apache.commons.dbutils.handlers.MapListHandler;
-import org.apache.commons.dbutils.handlers.ScalarHandler;
+import org.apache.commons.dbutils.handlers.*;
+import org.junit.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.sql.Connection;
@@ -143,5 +141,71 @@ public class OrderDaoImpl implements OrderDao {
         QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
         queryRunner.update(sql,state,oid);
     }
+
+    @Override
+    public List<Order> showAllOrder(int startNum,int showNum) throws SQLException {
+        String sql="select * from orders limit ?,?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        List<Order> list = queryRunner.query(sql, new BeanListHandler<Order>(Order.class), startNum, showNum);
+
+        String sql1="select total from orders limit ?,?";
+        QueryRunner queryRunner1=new QueryRunner(JDBCUtil.getDataSources());
+        List<Object> totalList = queryRunner1.query(sql1, new ColumnListHandler(), startNum, showNum);
+
+        for (int i=0;i<list.size();i++) {
+            list.get(i).setTotalPrice((Double) totalList.get(i));
+        }
+
+        return list;
+    }
+
+    @Override
+    public List<Order> showAllOrder(int state,int startNum,int showNum) throws SQLException {
+        String sql="select * from orders where state=? limit ?,?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        List<Order> list = queryRunner.query(sql, new BeanListHandler<Order>(Order.class), state, startNum, showNum);
+
+        String sql1="select total from orders where state=? limit ?,?";
+        QueryRunner queryRunner1=new QueryRunner(JDBCUtil.getDataSources());
+        List<Object> totalList = queryRunner1.query(sql1, new ColumnListHandler(), state,startNum, showNum);
+
+        for (int i=0;i<list.size();i++) {
+            list.get(i).setTotalPrice((Double) totalList.get(i));
+        }
+
+        return list;
+
+    }
+
+    @Override
+    public int showOrderTotal() throws SQLException {
+        String sql="select count(*) from orders";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        Long orders= (Long) queryRunner.query(sql,new ScalarHandler());
+        return orders.intValue();
+    }
+
+    @Override
+    public int showOrderTotal(int state) throws SQLException {
+        String sql="select count(*) from orders where state=?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        Long orders= (Long) queryRunner.query(sql,new ScalarHandler(),state);
+        return orders.intValue();
+    }
+
+    @Override
+    public Order getOrder(String oid) throws SQLException {
+        String sql="select * from orders where oid=?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        return queryRunner.query(sql,new BeanHandler<Order>(Order.class),oid);
+    }
+
+    @Override
+    public void updateState(Order order) throws SQLException {
+        String sql="update orders set state=? where oid=?";
+        QueryRunner queryRunner=new QueryRunner(JDBCUtil.getDataSources());
+        queryRunner.update(sql,order.getState(),order.getOid());
+    }
+
 
 }
